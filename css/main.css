@@ -32,6 +32,8 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .12em;
     background-color: #EDBB99;
+    text-align: center;
+    height: 100px;
 }
 
 ul.posts { 
