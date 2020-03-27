@@ -1,25 +1,23 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:400,700');
 
 body{
-    /*height:100%;
-    width:100%;*/
     font-family:'Rockwell', sans-serif;
 }
 
 .navbar, footer{
-    background-color:#23415C;
-    /*padding:1% 0;*/
     font-size:1.2em;
-
     padding-top:20px;
     padding-bottom:20px;
 }
+
 .navbar{
     margin-bottom:5px;
+    background-color:#23415C
 }
 
 footer{
     text-align:center;
+    background-color: #b8860b;
 }
 
 .navbar-default .navbar-nav li a, footer{
