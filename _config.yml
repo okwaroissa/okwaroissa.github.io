@@ -1,4 +1,4 @@
 name: Isaack Nyagweso, GIS Analyst
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-theme: minima
+theme: tactile
