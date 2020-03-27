@@ -1,5 +1,5 @@
 name: Isaack Nyagweso, GIS Analyst
 markdown: kramdown
-theme: Tactile
+theme: Modernist
 permalink: /blog/:year/:month/:day/:title
 
